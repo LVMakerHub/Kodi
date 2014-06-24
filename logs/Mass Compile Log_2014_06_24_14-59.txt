@@ -1,0 +1,64 @@
+#### Starting Mass Compile: Tue, Jun 24, 2014 2:59:49 PM
+  Directory: "C:\github\labviewhacker\LVH-XBMC"
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\examples\LabVIEW Hacker\XBMC\XBMC Send Input Action.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\examples\LabVIEW Hacker\XBMC\XBMC Send Input Action.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\help\LabVIEW Hacker\XBMC\Forums.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\help\LabVIEW Hacker\XBMC\Forums.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\help\LabVIEW Hacker\XBMC\Getting Started.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\help\LabVIEW Hacker\XBMC\Getting Started.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\help\LabVIEW Hacker\XBMC\Open Source.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\help\LabVIEW Hacker\XBMC\Open Source.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\help\LabVIEW Hacker\XBMC\Product Page.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\help\LabVIEW Hacker\XBMC\Product Page.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\help\LabVIEW Hacker\XBMC\Tutorials.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\help\LabVIEW Hacker\XBMC\Tutorials.vi
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\LVH-XBMC.lvproj
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\JSON\Parse String Array.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\JSON\Parse String Array.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\JSON\Parse String.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\JSON\Parse String.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\JSON\XBMC Method String Array Params.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\JSON\XBMC Method String Array Params.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Scripts\XBMC JSON Type To Enum.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Scripts\XBMC JSON Type To Enum.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\JSON_Objects\Input_Action.ctl)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\JSON_Objects\Input_Action.ctl
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\JSON_Objects\List_Fields_All.ctl)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\JSON_Objects\List_Fields_All.ctl
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\Methods\Player Method.ctl)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\Methods\Player Method.ctl
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\Error.ctl)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\Error.ctl
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\ID FGV State.ctl)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\ID FGV State.ctl
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\XBMC Ref.ctl)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Type Defs\XBMC Ref.ctl
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Check Response Status.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Check Response Status.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Generate Error.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Generate Error.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Get Base URL.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\Get Base URL.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\HTTP Get Helper.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\HTTP Get Helper.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\ID FGV.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Private\ID FGV.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Public\Player\GetItem.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Public\Player\GetItem.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Public\Player\Player.lvlib)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Public\Player\Player.lvlib
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Public\Close.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Public\Close.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Public\Open.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Public\Open.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Public\Write Input Action.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Public\Write Input Action.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Test Apps\Connection POC.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Test Apps\Connection POC.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Test Apps\Get Now Playing Info.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Test Apps\Get Now Playing Info.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Test Apps\User Input.vi)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\Test Apps\User Input.vi
+Failed to load (C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\LVH-XBMC.lvlib)
+CompileFile: error 1125 at C:\github\labviewhacker\LVH-XBMC\LabVIEW\vi.lib\LabVIEW Hacker\XBMC\LVH-XBMC.lvlib
+#### Finished Mass Compile: Tue, Jun 24, 2014 2:59:49 PM

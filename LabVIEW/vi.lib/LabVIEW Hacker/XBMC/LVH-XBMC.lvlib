@@ -28,10 +28,10 @@
 		</Item>
 		<Item Name="Type Defs" Type="Folder">
 			<Item Name="JSON Objects" Type="Folder">
-				<Item Name="Input.Action.ctl" Type="VI" URL="../Private/Type Defs/Input.Action.ctl"/>
-				<Item Name="List.Fields.All.ctl" Type="VI" URL="../Private/Type Defs/JSON/List.Fields.All.ctl"/>
-				<Item Name="Player_GetItem.ctl" Type="VI" URL="../Private/Type Defs/JSON/Player_GetItem.ctl"/>
-				<Item Name="XBMC Error.ctl" Type="VI" URL="../Private/Type Defs/JSON/XBMC Error.ctl"/>
+				<Item Name="Input_Action.ctl" Type="VI" URL="../Private/Type Defs/JSON_Objects/Input_Action.ctl"/>
+				<Item Name="List_Fields_All.ctl" Type="VI" URL="../Private/Type Defs/JSON_Objects/List_Fields_All.ctl"/>
+				<Item Name="Player_GetItem.ctl" Type="VI" URL="../Private/Type Defs/JSON_Objects/Player_GetItem.ctl"/>
+				<Item Name="XBMC Error.ctl" Type="VI" URL="../Private/Type Defs/JSON_Objects/XBMC Error.ctl"/>
 			</Item>
 			<Item Name="Methods" Type="Folder">
 				<Item Name="Player Method.ctl" Type="VI" URL="../Private/Type Defs/Methods/Player Method.ctl"/>
@@ -52,5 +52,4 @@
 		<Item Name="Player.lvlib" Type="Library" URL="../Public/Player/Player.lvlib"/>
 		<Item Name="Write Input Action.vi" Type="VI" URL="../Public/Write Input Action.vi"/>
 	</Item>
-	<Item Name="LVH-Leap.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Hacker/Leap/LVH-Leap.lvlib"/>
 </Library>

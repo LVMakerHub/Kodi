@@ -13,13 +13,11 @@
 		<Item Name="Test Apps" Type="Folder">
 			<Item Name="Connection POC.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/XBMC/Test Apps/Connection POC.vi"/>
 			<Item Name="Get Now Playing Info.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/XBMC/Test Apps/Get Now Playing Info.vi"/>
-			<Item Name="Leap POC.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/XBMC/Test Apps/Leap POC.vi"/>
 			<Item Name="User Input.vi" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/XBMC/Test Apps/User Input.vi"/>
 		</Item>
 		<Item Name="LVH-XBMC.lvlib" Type="Library" URL="../LVH-XBMC.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="6e1b1368e71eba9b" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Hacker/Leap/Private/Libs/6e1b1368e71eba9b"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
