@@ -1,3 +1,0 @@
-#### Starting Mass Compile: Thu, Jun 5, 2014 11:59:03 AM
-  Directory: "C:\github\labviewhacker\LVH-XBMC"
-#### Finished Mass Compile: Thu, Jun 5, 2014 11:59:03 AM
