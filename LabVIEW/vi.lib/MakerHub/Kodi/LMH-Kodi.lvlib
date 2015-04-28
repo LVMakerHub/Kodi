@@ -8,11 +8,11 @@
 
 </Property>
 	<Item Name="Examples" Type="Folder">
-		<Item Name="Kodi Send Input Action.vi" Type="VI" URL="../../../../examples/LabVIEW Hacker/XBMC/Kodi Send Input Action.vi"/>
+		<Item Name="Kodi Send Input Action.vi" Type="VI" URL="../../../../examples/MakerHub/Kodi/Kodi Send Input Action.vi"/>
 	</Item>
 	<Item Name="Help" Type="Folder">
-		<Item Name="Forums.vi" Type="VI" URL="../../../../help/LabVIEW Hacker/XBMC/Forums.vi"/>
-		<Item Name="Getting Started.vi" Type="VI" URL="../../../../help/LabVIEW Hacker/XBMC/Getting Started.vi"/>
+		<Item Name="Forums.vi" Type="VI" URL="../../../../help/MakerHub/Kodi/Forums.vi"/>
+		<Item Name="Getting Started.vi" Type="VI" URL="../../../../help/MakerHub/Kodi/Getting Started.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Item Name="JSON" Type="Folder">
