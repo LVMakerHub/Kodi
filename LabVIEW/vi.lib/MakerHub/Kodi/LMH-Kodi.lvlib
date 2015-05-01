@@ -20,6 +20,9 @@
 			<Item Name="Parse String.vi" Type="VI" URL="../Private/JSON/Parse String.vi"/>
 			<Item Name="XBMC Method String Array Params.vi" Type="VI" URL="../Private/JSON/XBMC Method String Array Params.vi"/>
 		</Item>
+		<Item Name="Player" Type="Folder">
+			<Item Name="Player.lvlib" Type="Library" URL="/&lt;vilib&gt;/MakerHub/Kodi/Private/Player/Player.lvlib"/>
+		</Item>
 		<Item Name="Scripts" Type="Folder">
 			<Item Name="XBMC JSON Type To Enum.vi" Type="VI" URL="../Private/Scripts/XBMC JSON Type To Enum.vi"/>
 		</Item>
@@ -33,8 +36,10 @@
 			<Item Name="Methods" Type="Folder">
 				<Item Name="Player Method.ctl" Type="VI" URL="../Private/Type Defs/Methods/Player Method.ctl"/>
 			</Item>
+			<Item Name="Audio Item.ctl" Type="VI" URL="../Private/Type Defs/Audio Item.ctl"/>
 			<Item Name="Error.ctl" Type="VI" URL="../Private/Type Defs/Error.ctl"/>
 			<Item Name="ID FGV State.ctl" Type="VI" URL="../Private/Type Defs/ID FGV State.ctl"/>
+			<Item Name="No Parameter Method.ctl" Type="VI" URL="../Private/Type Defs/No Parameter Method.ctl"/>
 			<Item Name="XBMC Ref.ctl" Type="VI" URL="../Private/Type Defs/XBMC Ref.ctl"/>
 		</Item>
 		<Item Name="Check Response Status.vi" Type="VI" URL="../Private/Check Response Status.vi"/>
@@ -44,9 +49,11 @@
 		<Item Name="ID FGV.vi" Type="VI" URL="../Private/ID FGV.vi"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
+		<Item Name="Player" Type="Folder">
+			<Item Name="Get Media Type.vi" Type="VI" URL="../Public/Player/Get Media Type.vi"/>
+		</Item>
 		<Item Name="Close.vi" Type="VI" URL="../Public/Close.vi"/>
 		<Item Name="Open.vi" Type="VI" URL="../Public/Open.vi"/>
-		<Item Name="Player.lvlib" Type="Library" URL="../Public/Player/Player.lvlib"/>
 		<Item Name="Write Input Action.vi" Type="VI" URL="../Public/Write Input Action.vi"/>
 	</Item>
 </Library>
